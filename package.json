@@ -24,7 +24,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "description": "[![HitCount](http://hits.dwyl.io/avaarm/React-Portfolio.svg)](http://hits.dwyl.io/avaarm/React-Portfolio) ![Star this repository](https://img.shields.io/github/stars/avaarm/React-Portfolio?style=social)",
+  "description": "[![HitCount](https://hits.dwyl.io/avaarm/React-Portfolio.svg)](http://hits.dwyl.io/avaarm/React-Portfolio) ![Star this repository](https://img.shields.io/github/stars/avaarm/React-Portfolio?style=social)",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -35,7 +35,7 @@
   "bugs": {
     "url": "https://github.com/avaarm/React-Portfolio/issues"
   },
-  "homepage": "http://avaarm.github.io/react-portfolio",
+  "homepage": "https://avaarm.github.io/react-portfolio",
   "devDependencies": {
     "gh-pages": "^3.1.0"
   }
