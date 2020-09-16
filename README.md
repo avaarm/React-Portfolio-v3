@@ -1,4 +1,4 @@
-# [React Portfolio]()
+# [React Portfolio](https://avaarm.github.io/React-Portfolio-v3/)
 
 
 [![GitHub License](https://img.shields.io/badge/License-orange.svg)](Develop/License/MIT.md)
@@ -92,5 +92,5 @@ IndexedDB is a low-level API for client-side storage of significant amounts of s
 ## Questions 
 
 If you have any questions, please contact me on:
-GitHub at [avaarm](https://github.com/avaarm)
+GitHub at [avaarm](https://github.com/avaarm) & 
 Email at [Armenuhi](mailto:avaarm95@mail.com)
