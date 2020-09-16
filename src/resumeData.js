@@ -66,7 +66,7 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"API integration"
+        "skillname":"API"
       },
       {
         "skillname":"Javascript"
@@ -79,6 +79,9 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"PWAs"
       }
     ],
     "portfolio":[
