@@ -341,31 +341,35 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: javascript 2s ease;
 }
 .sql {
-  	width: 40%;
+  	width: 60%;
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
-.Express {
-  	width: 40%;
+.express {
+  	width: 50%;
   	-moz-animation: Express 2s ease;
   	-webkit-animation: Express 2s ease;
 }
-.NoSQL {
+.nosql {
   	width: 50%;
   	-moz-animation: NoSQL 2s ease;
   	-webkit-animation: NoSQL 2s ease;
 }
-.Reactjs {
+.reactjs {
    width: 50%;
    -moz-animation: Reactjs 2s ease;
    -webkit-animation: Reactjs 2s ease;
 }
-.PWAs {
+.pwas {
    width: 50%;
    -moz-animation: PWAs 2s ease;
    -webkit-animation: PWAs 2s ease;
 }
-
+.api {
+   width: 50%;
+   -moz-animation: api 2s ease;
+   -webkit-animation: api 2s ease;
+}
 
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
@@ -383,31 +387,28 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes Express {
+@-moz-keyframes express {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 50%;  }
 }
-@-moz-keyframes NoSQL {
+@-moz-keyframes nosql {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes Reactjs {
+@-webkit-keyframes reactjs {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes illustrator {
+
+@-webkit-keyframes pwas {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-webkit-keyframes PWAs {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
+@-webkit-keyframes api {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section

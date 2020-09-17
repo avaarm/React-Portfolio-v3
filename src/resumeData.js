@@ -72,7 +72,7 @@ let resumeData = {
         "skillname":"Javascript"
       },
       {
-        "skillname":"SQL & NoSQL"
+        "skillname":"SQL"
       },
       {
         "skillname":"Express"
@@ -82,6 +82,9 @@ let resumeData = {
       },
       {
         "skillname":"PWAs"
+      },
+      {
+        "skillname":"NoSQL"
       }
     ],
     "portfolio":[
